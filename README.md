@@ -15,3 +15,11 @@ PS: Contract should be in ETH blockchain. Other networks may not give correct re
 ### Sample Tests
 
 ESP32 code is just for checking contract details so that is why web3 website can be usefull to change contract parameters to see ESP32 controlling.
+
+## ESP32 libraries
+
+  - WiFi.h
+  - ArduinoJson.h
+  - ESP32Servo.h
+  - Contract.h
+  - Web3.h
