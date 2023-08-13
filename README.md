@@ -18,8 +18,8 @@ ESP32 code is just for checking contract details so that is why web3 website can
 
 ## ESP32 libraries
 
-  - WiFi.h
-  - ArduinoJson.h
-  - ESP32Servo.h
-  - Contract.h
-  - Web3.h
+  - WiFi
+  - ArduinoJson
+  - ESP32Servo
+  - [Contract.h](https://github.com/kopanitsa/web3-arduino.git)
+  - [Web3.h](https://github.com/kopanitsa/web3-arduino.git)
